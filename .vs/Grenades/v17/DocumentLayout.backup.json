@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\Grenades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1B558-E99A-4DF6-8E56-DE97009F79EF}|Grenades\\Grenades.csproj|c:\\users\\abdul\\source\\repos\\grenades\\grenades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1B558-E99A-4DF6-8E56-DE97009F79EF}|Grenades\\Grenades.csproj|solutionrelative:grenades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1B558-E99A-4DF6-8E56-DE97009F79EF}|Grenades\\Grenades.csproj|c:\\users\\abdul\\source\\repos\\grenades\\grenades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26A1B558-E99A-4DF6-8E56-DE97009F79EF}|Grenades\\Grenades.csproj|solutionrelative:grenades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1B558-E99A-4DF6-8E56-DE97009F79EF}|Grenades\\Grenades.csproj|c:\\users\\abdul\\source\\repos\\grenades\\grenades\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{26A1B558-E99A-4DF6-8E56-DE97009F79EF}|Grenades\\Grenades.csproj|solutionrelative:grenades\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Grenades\\Grenades\\Form1.cs",
+              "RelativeDocumentMoniker": "Grenades\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Grenades\\Grenades\\Form1.cs [Design]*",
+              "RelativeToolTip": "Grenades\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T21:06:12.072Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Grenades\\Grenades\\Form1.cs",
+              "RelativeDocumentMoniker": "Grenades\\Form1.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Grenades\\Grenades\\Form1.cs*",
+              "RelativeToolTip": "Grenades\\Form1.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T21:12:04.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\Grenades\\Grenades\\Resource.resx",
+              "RelativeDocumentMoniker": "Grenades\\Resource.resx",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\Grenades\\Grenades\\Resource.resx",
+              "RelativeToolTip": "Grenades\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-27T21:08:20.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

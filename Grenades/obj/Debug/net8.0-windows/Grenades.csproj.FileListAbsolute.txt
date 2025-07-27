@@ -1,0 +1,17 @@
+C:\Users\abdul\source\repos\Grenades\Grenades\bin\Debug\net8.0-windows\Grenades.exe
+C:\Users\abdul\source\repos\Grenades\Grenades\bin\Debug\net8.0-windows\Grenades.deps.json
+C:\Users\abdul\source\repos\Grenades\Grenades\bin\Debug\net8.0-windows\Grenades.runtimeconfig.json
+C:\Users\abdul\source\repos\Grenades\Grenades\bin\Debug\net8.0-windows\Grenades.dll
+C:\Users\abdul\source\repos\Grenades\Grenades\bin\Debug\net8.0-windows\Grenades.pdb
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.Form1.resources
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.Resource.resources
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.AssemblyInfo.cs
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.dll
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\refint\Grenades.dll
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.pdb
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.genruntimeconfig.cache
+C:\Users\abdul\source\repos\Grenades\Grenades\obj\Debug\net8.0-windows\ref\Grenades.dll
